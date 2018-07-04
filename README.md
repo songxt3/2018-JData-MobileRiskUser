@@ -1,5 +1,6 @@
 # 2018-JData-MobileRiskUser
 软件工程综合实训--基于移动网络通讯行为的风险用户识别  
+数据链接：https://pan.baidu.com/s/1AYK9efZViaU_du9ra24X1w         
 ## 代码说明  
 **model_select**  
 `model_select.py`，进行单模型选择   

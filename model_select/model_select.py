@@ -3,9 +3,10 @@
 
 
 import sys
-
 reload(sys)
 sys.setdefaultencoding('utf-8')
+
+
 
 # Load in our libraries
 import pandas as pd
